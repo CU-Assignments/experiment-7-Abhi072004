@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Exp6_EasyProblem {
+public class Exp7_EasyProblem {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/JAVALAB2";
         String user = "root";
